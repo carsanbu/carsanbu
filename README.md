@@ -1,4 +1,10 @@
-### Hi there 👋
+### Emb🤖dded & visi👁️n developer.
+
+#### Languages
+- C
+- C++
+- Python
+- C#
 
 <!--
 **carsanbu/carsanbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
