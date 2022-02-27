@@ -1,4 +1,4 @@
-### Emb🤖dded & visi👁️n developer.
+### 🤖 Embedded developer.
 
 #### Languages
 - C
