@@ -1,6 +1,6 @@
-### 🤖 Embedded developer.
+# 🤖 Embedded developer.
 
-#### Languages
+# Languages
 - C
 - C++
 - Python
